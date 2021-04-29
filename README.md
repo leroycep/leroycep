@@ -2,11 +2,12 @@
 
 Some Libraries I've worked on:
 
-- [seizer](https://github.com/leroycep/seizer) --  Cross platform Zig library for obtaining a rendering context and loading assets
+- [seizer][] --  Cross platform Zig library for obtaining a rendering context and loading assets
 - [zig-tzif](https://github.com/leroycep/zig-tzif) -- A library for reading TZif Timezone database files
 - [zig-ulid](https://github.com/leroycep/zig-ulid) -- A library for encoding and decoding [ULIDs][]
+- [zigmath](https://github.com/leroycep/zigmath) -- Video game math library for Zig, built for use with [seizer][]
 
-
+[seizer]: https://github.com/leroycep/seizer
 [ULIDs]: https://github.com/ulid/spec
 
 ### Games
