@@ -6,6 +6,7 @@ Some Libraries I've worked on:
 - [zig-tzif](https://github.com/leroycep/zig-tzif) -- A library for reading TZif Timezone database files
 - [zig-ulid](https://github.com/leroycep/zig-ulid) -- A library for encoding and decoding [ULIDs][]
 - [zigmath](https://github.com/leroycep/zigmath) -- Video game math library for Zig, built for use with [seizer][]
+- [zig-jwt](https://github.com/leroycep/zig-jwt) -- JSON Web Tokens for Zig
 
 [seizer]: https://github.com/leroycep/seizer
 [ULIDs]: https://github.com/ulid/spec
