@@ -17,6 +17,7 @@ Some Libraries I've worked on:
 - [Hexagonal Chess](https://github.com/leroycep/hexagonal-chess) -- A multiplayer implementation of Gliński's hexagonal chess
 - [2021 7 Day Roguelike](https://github.com/leroycep/2021-7drl) -- A game I worked on for the 2021 7 Day Roguelike Challenge, mainly used to split [seizer][] into it's own library
 - [Snake Game](https://github.com/leroycep/snake-game) -- A snake game, but this time the snake doesn't stick to a grid
+- [Game of Life](https://github.com/leroycep/game-of-life) -- Conway's Game of Life implemented with Zig, WASM, and Canvas API
 
 [seizer]: https://github.com/leroycep/seizer
 [desttinghim]: https://github.com/desttinghim
